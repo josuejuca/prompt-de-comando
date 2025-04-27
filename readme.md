@@ -54,4 +54,4 @@ Sinta-se livre para usar, modificar e compartilhar!
 ---
 
 🚀 Criado com ❤️ para facilitar a vida de quem usa o Windows!
-```
+
