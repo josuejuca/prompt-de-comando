@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Prompt de Comando (Admin)]
+@="Prompt de Comando (Admin)"
+"Icon"="%SystemRoot%\\System32\\imageres.dll,-78"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Prompt de Comando (Admin)\command]
+@="powershell.exe -Command \"Start-Process cmd.exe -ArgumentList '/s,/k,pushd,%V' -Verb RunAs\""
